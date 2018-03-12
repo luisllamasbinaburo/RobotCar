@@ -8,19 +8,12 @@ Unless required by applicable law or agreed to in writing, software distributed 
 #ifndef _ROBOTCAR_CONSTANTS_h
 #define _ROBOTCAR_CONSTANTS_h
 
-const int pinIN1 = 4;
-const int pinIN2 = 5;
-const int pinENA = 6;
+const int pinIN1 = 5;
+const int pinIN2 = 6;
 const int pinIN3 = 7;
 const int pinIN4 = 8;
-const int pinENB = 9;
-
-//const int pinIN1 = 5;
-//const int pinIN2 = 6;
-//const int pinIN3 = 7;
-//const int pinIN4 = 8;
-//const int pinENA = 9;
-//const int pinENB = 10;
+const int pinENA = 9;
+const int pinENB = 10;
 
 #endif
 
